@@ -1,0 +1,151 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE en
+
+---STRING %s total
+%s Total
+---STRINGEND
+
+---STRING average of %s runs
+Average of %s invoice runs
+---STRINGEND
+
+---STRING basic report
+Basic report
+---STRINGEND
+
+---STRING basic report for %s - %s
+Basic report for %s - %s
+---STRINGEND
+
+---STRING both
+Both
+---STRINGEND
+
+---STRING define custom report
+Define a custom report
+---STRINGEND
+
+---STRING edit report %s
+Edit report "%s"
+---STRINGEND
+
+---STRING end time
+End time
+---STRINGEND
+
+---STRING fixed price
+Fixed price
+---STRINGEND
+
+---STRING invoice report %s - %s
+Invoice Report %s - %s
+---STRINGEND
+
+---STRING invoice status
+Invoice Status
+---STRINGEND
+
+---STRING invoiceable hours last month
+Billable hours last month
+---STRINGEND
+
+---STRING invoiceable hours this month
+Billable hours this month
+---STRINGEND
+
+---STRING month
+Month
+---STRINGEND
+
+---STRING no customer
+Kein Kunde
+---STRINGEND
+
+---STRING no results
+No results
+---STRINGEND
+
+---STRING no results found matching the report criteria
+No results matching the report criteria were found.
+---STRINGEND
+
+---STRING only invoiceable
+Only billable
+---STRINGEND
+
+---STRING only invoiced
+Only invoiced
+---STRINGEND
+
+---STRING only not invoiced
+Only not invoiced
+---STRINGEND
+
+---STRING only uninvoiceable
+Only unbillable
+---STRINGEND
+
+---STRING org.openpsa.reports
+Report generator
+---STRINGEND
+
+---STRING person
+Person
+---STRINGEND
+
+---STRING query by
+Query by
+---STRINGEND
+
+---STRING report grouping
+Report grouping
+---STRINGEND
+
+---STRING report style
+Report style
+---STRINGEND
+
+---STRING root project/process
+Root project/process
+---STRINGEND
+
+---STRING sales report %s - %s
+Sales Report %s - %s
+---STRINGEND
+
+---STRING save query for future
+Save query for future
+---STRINGEND
+
+---STRING scope
+Scope
+---STRINGEND
+
+---STRING show invoiceable
+Show billable
+---STRINGEND
+
+---STRING show invoiced
+Show invoiced
+---STRINGEND
+
+---STRING start time
+Start time
+---STRINGEND
+
+---STRING timeframe
+Timeframe
+---STRINGEND
+
+---STRING totals
+Totals
+---STRINGEND
+
+---STRING workgroup/person
+Workgroup/Person
+---STRINGEND
+
+---STRING year
+Year
+---STRINGEND

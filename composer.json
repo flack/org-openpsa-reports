@@ -1,0 +1,24 @@
+{
+    "name": "openpsa/org-openpsa-reports",
+    "type": "midcom-package",
+    "description": "Run reports on data from various other modules",
+    "keywords": ["midcom", "reports"],
+    "homepage": "https://openpsa2.org",
+    "license": "LGPL-2.1-or-later",
+    "authors": [
+        {
+            "name": "Andreas Flack",
+            "email": "flack@contentcontrol-berlin.de",
+            "homepage": "http://www.contentcontrol-berlin.de/"
+        }
+    ],
+    "require": {
+        "openpsa/midcom-core": "dev-main",
+        "openpsa/org-openpsa-core": "dev-main"
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": ["lib"]
+    }
+}
