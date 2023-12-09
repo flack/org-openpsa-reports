@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "openpsa/midcom-core": "dev-main",
-        "openpsa/org-openpsa-core": "dev-main"
+        "openpsa/midcom-core": "^9.10.0",
+        "openpsa/org-openpsa-core": "^9.10.0"
     },
     "prefer-stable": true,
     "minimum-stability": "dev",
